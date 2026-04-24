@@ -4,71 +4,59 @@
     "projects": true,
     "experience": true,
     "skills": true,
-    "github_projects": true
+    "github_projects": false
   },
   "site": {
-    "title": "medyawix-kahraman",
-    "description": "Developer Portfolio",
+    "title": "CRN Creative Design",
+    "description": "İç ve Dış Mimarlık Hizmetleri",
     "seo": {
-      "title": "medyawix-kahraman - Developer Portfolio",
-      "description": "Developer Portfolio of medyawix-kahraman",
-      "keywords": "developer, portfolio, github",
-      "author": "medyawix-kahraman",
-      "og_image": "https://avatars.githubusercontent.com/medyawix-kahraman",
-      "twitter_card": "summary_large_image",
+      "title": "CRN Creative Design | İç ve Dış Mimarlık",
+      "description": "Modern iç mekan tasarımı, dış cephe projeleri, anahtar teslim mimarlık çözümleri.",
+      "keywords": "iç mimarlık, dış mimarlık, dekorasyon, proje tasarımı",
+      "author": "CRN Creative Design",
       "base_url": "https://medyawix-kahraman.github.io/wixmedya"
     }
   },
   "header": {
-    "greeting": "medyawix-kahraman",
-    "tagline": "Developer and Creator."
+    "greeting": "CRN Creative Design",
+    "tagline": "İç ve Dış Mimaride Premium Çözümler"
   },
-  "social_links": [
-    {
-      "name": "GitHub",
-      "url": "https://github.com/medyawix-kahraman",
-      "icon": "github",
-      "required": true
-    }
-  ],
-  "github_username": "medyawix-kahraman",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm passionate about creating amazing digital experiences and solving complex problems through code.",
-      "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
+      "CRN Creative Design olarak yaşam alanlarını estetik ve fonksiyonel hale getiriyoruz.",
+      "Modern çizgiler, premium detaylar ve özgün projeler ile müşterilerimize özel çözümler sunuyoruz."
     ]
   },
   "projects": {
-    "title": "Featured Projects",
+    "title": "Projelerimiz",
     "items": [
       {
-        "name": "Portfolio Website",
-        "date": "April 24, 2026",
+        "name": "Lüks Villa Tasarımı",
+        "date": "2026",
         "description": [
-          "A modern, responsive portfolio website built with vanilla JavaScript",
-          "Features dark/light mode, dynamic content loading, and GitHub integration",
-          "Fully configurable through JSON with automated README generation"
+          "Modern iç mimari uygulama",
+          "Özel aydınlatma ve premium detaylar",
+          "Anahtar teslim proje yönetimi"
         ],
         "picture": "assets/projects/Placeholder.png",
         "link": {
           "url": "https://medyawix-kahraman.github.io/wixmedya",
-          "title": "View Live Site"
+          "title": "Projeyi İncele"
         }
       }
     ]
   },
   "experience": {
-    "title": "Professional Experience",
+    "title": "Hizmetlerimiz",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
+        "company": "CRN Creative Design",
+        "role": "İç Mimarlık",
+        "date": "Aktif",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
+          "3D Tasarım",
+          "Mobilya Konsept Çalışmaları",
+          "Anahtar Teslim Uygulama"
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
@@ -76,45 +64,22 @@
     ]
   },
   "skills": {
-    "title": "Skills & Technologies",
+    "title": "Uzmanlık Alanlarımız",
     "categories": [
       {
-        "name": "Programming Languages & Technologies",
+        "name": "Hizmetler",
         "items": [
-          "JavaScript",
-          "Python",
-          "Java",
-          "TypeScript"
-        ]
-      },
-      {
-        "name": "Tools & Platforms",
-        "items": [
-          "Git",
-          "GitHub",
-          "VS Code",
-          "Docker"
-        ]
-      },
-      {
-        "name": "Certifications",
-        "items": [
-          {
-            "name": "Add your certification name here",
-            "url": "https://example.com/your-certification-link"
-          },
-          "You can also add certifications without links"
+          "İç Mimarlık",
+          "Dış Cephe Tasarımı",
+          "Dekorasyon",
+          "Tadilat"
         ]
       }
     ]
   },
-  "github_projects": {
-    "title": "Projects on GitHub"
-  },
   "footer": {
-    "show_social_links": true,
-    "show_built_with": true,
-    "built_with_text": "Built with ❤️ using vanilla JavaScript",
-    "tagline": "Let's connect and build something amazing together!"
+    "show_social_links": false,
+    "show_built_with": false,
+    "tagline": "CRN Creative Design"
   }
 }
